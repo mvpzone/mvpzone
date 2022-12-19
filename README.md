@@ -20,13 +20,9 @@ Want to collaborate. Love to hear from you…
 - 🌍 I'm mostly active within the **Berkeley iSchool Community**
 - 🌱 I’m currently exploring Cybersecurity
 - 💞️ I love to collaborate on open source & digital topics
-- 💬 Ask me about **digital personalization**, **design** **cybersecurity**, **philosophy**.
-- ⚡ Fun fact: I am quite capable of making my friend, Happy, sad...
+- 💬 Ask me about **digital personalization**, **cybersecurity**, **philosophy**.
+- ⚡ Fun fact: I am quite capable of making Happy (my friend), sad...
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/vineshpm/) [Twitter](https://twitter.com/mvpzone)**
-
-I am fascinated by the impact of technology on our daily experiences and constantly thinking of ways to make technology frictionless and universally accessible. When not thinking about crafting such solutions you can usually find me reading about philosophy, psychology or technology.
-
-I love to explore the wilderness with my 4 legged friend (Happy) and I am quite capable of making Happy, sad.
 
 <!---
 mvpzone/mvpzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
