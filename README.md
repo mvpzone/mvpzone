@@ -1,3 +1,5 @@
+[Banner](abstract_colorful_shroud_banner.png)
+
 ### Hello 👋
 
 I am Vinesh, a cybersecurity practitioner in the global cybersecurity action team at Google. I am an engineer/trouble maker on the cloud open source team and an ambassador of the Google For Startups program. I am the one Developers yell at when stuff isn't working how they want; Also the one the engineers yell at when the developers aren't using it right. I help folks stay safe, have fun & succeed in a digital world by harnessing software.
