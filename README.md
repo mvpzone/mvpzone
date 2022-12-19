@@ -1,4 +1,4 @@
-![Banner](https://github.com/mvpzone/mvpzone/raw/main/abstract_colorful_shroud_banner.png)
+![Banner](https://github.com/mvpzone/mvpzone/raw/main/abstract_colorful_shroud_banner.jpeg)
 
 ### Hello 👋
 
