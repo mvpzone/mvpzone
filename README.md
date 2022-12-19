@@ -17,7 +17,7 @@ Want to collaborate. Love to hear from you…
 
 #### BIO
 
-- 👋 Hi, I’m Vinesh [@mvpzone](https://github.com/mvpzone)
+- 👋 Hi, I’m Vinesh ([@mvpzone](https://github.com/mvpzone))
 - 👀 I’m interested in Cybersecurity & Cloud Platforms
 - 🌍 I'm mostly active within the **Berkeley iSchool Community**
 - 🌱 I’m currently exploring Cybersecurity
